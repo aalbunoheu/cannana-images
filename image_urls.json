@@ -334,5 +334,50 @@
   "thumb_1000": "https://cdn.jsdelivr.net/gh/aalbunoheu/cannana-images@main/images/LB-310/thumb_1000.jpg",
   "toss_ad_600x240": "https://cdn.jsdelivr.net/gh/aalbunoheu/cannana-images@main/images/LB-310/toss_ad_600x240.jpg",
   "toss_thumb_600": "https://cdn.jsdelivr.net/gh/aalbunoheu/cannana-images@main/images/LB-310/toss_thumb_600.jpg"
+ },
+ "LB-166": {
+  "bk_detail_1_728": "https://cdn.jsdelivr.net/gh/aalbunoheu/cannana-images@main/images/LB-166/bk_detail_1_728.jpg",
+  "bk_detail_2_728": "https://cdn.jsdelivr.net/gh/aalbunoheu/cannana-images@main/images/LB-166/bk_detail_2_728.jpg",
+  "bk_detail_3_728": "https://cdn.jsdelivr.net/gh/aalbunoheu/cannana-images@main/images/LB-166/bk_detail_3_728.jpg",
+  "detail_1000_1": "https://cdn.jsdelivr.net/gh/aalbunoheu/cannana-images@main/images/LB-166/detail_1000_1.jpg",
+  "detail_1000_2": "https://cdn.jsdelivr.net/gh/aalbunoheu/cannana-images@main/images/LB-166/detail_1000_2.jpg",
+  "detail_1000_3": "https://cdn.jsdelivr.net/gh/aalbunoheu/cannana-images@main/images/LB-166/detail_1000_3.jpg",
+  "detail_full": "https://cdn.jsdelivr.net/gh/aalbunoheu/cannana-images@main/images/LB-166/detail_full.jpg",
+  "rep_728": "https://cdn.jsdelivr.net/gh/aalbunoheu/cannana-images@main/images/LB-166/rep_728.jpg",
+  "thumb_1000": "https://cdn.jsdelivr.net/gh/aalbunoheu/cannana-images@main/images/LB-166/thumb_1000.jpg",
+  "toss_ad_600x240": "https://cdn.jsdelivr.net/gh/aalbunoheu/cannana-images@main/images/LB-166/toss_ad_600x240.jpg",
+  "toss_thumb_600": "https://cdn.jsdelivr.net/gh/aalbunoheu/cannana-images@main/images/LB-166/toss_thumb_600.jpg"
+ },
+ "LB-280": {
+  "bk_detail_1_728": "https://cdn.jsdelivr.net/gh/aalbunoheu/cannana-images@main/images/LB-280/bk_detail_1_728.jpg",
+  "bk_detail_2_728": "https://cdn.jsdelivr.net/gh/aalbunoheu/cannana-images@main/images/LB-280/bk_detail_2_728.jpg",
+  "bk_detail_3_728": "https://cdn.jsdelivr.net/gh/aalbunoheu/cannana-images@main/images/LB-280/bk_detail_3_728.jpg",
+  "bk_detail_4_728": "https://cdn.jsdelivr.net/gh/aalbunoheu/cannana-images@main/images/LB-280/bk_detail_4_728.jpg",
+  "bk_detail_5_728": "https://cdn.jsdelivr.net/gh/aalbunoheu/cannana-images@main/images/LB-280/bk_detail_5_728.jpg",
+  "detail_1000_1": "https://cdn.jsdelivr.net/gh/aalbunoheu/cannana-images@main/images/LB-280/detail_1000_1.jpg",
+  "detail_1000_2": "https://cdn.jsdelivr.net/gh/aalbunoheu/cannana-images@main/images/LB-280/detail_1000_2.jpg",
+  "detail_1000_3": "https://cdn.jsdelivr.net/gh/aalbunoheu/cannana-images@main/images/LB-280/detail_1000_3.jpg",
+  "detail_1000_4": "https://cdn.jsdelivr.net/gh/aalbunoheu/cannana-images@main/images/LB-280/detail_1000_4.jpg",
+  "detail_full": "https://cdn.jsdelivr.net/gh/aalbunoheu/cannana-images@main/images/LB-280/detail_full.jpg",
+  "rep_728": "https://cdn.jsdelivr.net/gh/aalbunoheu/cannana-images@main/images/LB-280/rep_728.jpg",
+  "thumb_1000": "https://cdn.jsdelivr.net/gh/aalbunoheu/cannana-images@main/images/LB-280/thumb_1000.jpg",
+  "toss_ad_600x240": "https://cdn.jsdelivr.net/gh/aalbunoheu/cannana-images@main/images/LB-280/toss_ad_600x240.jpg",
+  "toss_thumb_600": "https://cdn.jsdelivr.net/gh/aalbunoheu/cannana-images@main/images/LB-280/toss_thumb_600.jpg"
+ },
+ "LB-301": {
+  "bk_detail_1_728": "https://cdn.jsdelivr.net/gh/aalbunoheu/cannana-images@main/images/LB-301/bk_detail_1_728.jpg",
+  "bk_detail_2_728": "https://cdn.jsdelivr.net/gh/aalbunoheu/cannana-images@main/images/LB-301/bk_detail_2_728.jpg",
+  "bk_detail_3_728": "https://cdn.jsdelivr.net/gh/aalbunoheu/cannana-images@main/images/LB-301/bk_detail_3_728.jpg",
+  "bk_detail_4_728": "https://cdn.jsdelivr.net/gh/aalbunoheu/cannana-images@main/images/LB-301/bk_detail_4_728.jpg",
+  "bk_detail_5_728": "https://cdn.jsdelivr.net/gh/aalbunoheu/cannana-images@main/images/LB-301/bk_detail_5_728.jpg",
+  "detail_1000_1": "https://cdn.jsdelivr.net/gh/aalbunoheu/cannana-images@main/images/LB-301/detail_1000_1.jpg",
+  "detail_1000_2": "https://cdn.jsdelivr.net/gh/aalbunoheu/cannana-images@main/images/LB-301/detail_1000_2.jpg",
+  "detail_1000_3": "https://cdn.jsdelivr.net/gh/aalbunoheu/cannana-images@main/images/LB-301/detail_1000_3.jpg",
+  "detail_1000_4": "https://cdn.jsdelivr.net/gh/aalbunoheu/cannana-images@main/images/LB-301/detail_1000_4.jpg",
+  "detail_full": "https://cdn.jsdelivr.net/gh/aalbunoheu/cannana-images@main/images/LB-301/detail_full.jpg",
+  "rep_728": "https://cdn.jsdelivr.net/gh/aalbunoheu/cannana-images@main/images/LB-301/rep_728.jpg",
+  "thumb_1000": "https://cdn.jsdelivr.net/gh/aalbunoheu/cannana-images@main/images/LB-301/thumb_1000.jpg",
+  "toss_ad_600x240": "https://cdn.jsdelivr.net/gh/aalbunoheu/cannana-images@main/images/LB-301/toss_ad_600x240.jpg",
+  "toss_thumb_600": "https://cdn.jsdelivr.net/gh/aalbunoheu/cannana-images@main/images/LB-301/toss_thumb_600.jpg"
  }
 }
